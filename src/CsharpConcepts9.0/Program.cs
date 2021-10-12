@@ -6,7 +6,7 @@ namespace CsharpConcepts9._0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            new Topic1().Entry();
         }
     }
 }
